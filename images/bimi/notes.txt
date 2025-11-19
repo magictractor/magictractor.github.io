@@ -1,1 +1,7 @@
+SVG images might need to be converted to BIMI-compatible SVG Tiny P/S format.
+https://easydmarc.com/tools/bimi-logo-converter
+https://powerdmarc.com/bimi-svg-logo-converter-tool/
+
+
 Puffin from https://www.svgrepo.com/svg/191438/deadlock-bird, CC0 License.
+Converted using PowerDMARC's converter.
